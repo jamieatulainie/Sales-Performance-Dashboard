@@ -14,7 +14,7 @@ The objective is to help management understand sales trends, compare regional pe
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+![Sales Performance Dashboard](sales-performance-dashboard.png)
 
 ## Key Performance Indicators
 
